@@ -14,6 +14,9 @@
 <a href="https://github.com/MainOutputNone">
   <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=github-dark-blue&hide_border=true&locale=pt_BR&mode=weekly&ring=EB1FAA" />
 </a>
+
+###
+
 <a href="https://github.com/MainOutputNone">
-  <img align="center" src="" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&theme=transparent&border_color=EB1FAA&border_radius=7.5&hide_border=true" />
 </a>
