@@ -12,11 +12,12 @@
 **Descrição:** Desenvolvedor júnior com competências em C/C++ & Python. Minha área de interesse é a computação quântica, que utiliza qubits (bits quânticos) em vez de bits normais. Acredito que a computação quântica se tornará cada vez mais importante e relevante em muitas áreas, incluindo a académica em breve. Estou sempre aberto a falar e trocar ideias sobre programação e tecnologia.
 
 <a href="https://github.com/MainOutputNone">
-  <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=github-dark-blue&hide_border=true&locale=pt_BR&mode=weekly&ring=EB1FAA" />
+  <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=vision-friendly-dark&border_radius=8&locale=pt_BR&mode=weekly&border=DDC745&hide_border=true" />
 </a>
-
-###
-
 <a href="https://github.com/MainOutputNone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&theme=transparent&border_color=EB1FAA&border_radius=7.5&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=true&&theme=vision-friendly-dark&border_color=DDC745&border_radius=7.5&hide_border=true" />
 </a>
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=true&&theme=vision-friendly-dark&border_color=DDC745&border_radius=7.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
