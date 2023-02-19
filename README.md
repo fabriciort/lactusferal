@@ -14,10 +14,12 @@
 <a href="https://github.com/MainOutputNone">
   <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=vision-friendly-dark&border_radius=8&locale=pt_BR&mode=weekly&border=DDC745&hide_border=true" />
 </a>
+<!---
 <a href="https://github.com/MainOutputNone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=true&&theme=vision-friendly-dark&border_color=DDC745&border_radius=7.5&hide_border=true" />
 </a>
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=true&&theme=vision-friendly-dark&border_color=DDC745&border_radius=7.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=true&&theme=vision-friendly-dark&border_color=DDC745&border_radius=7.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
