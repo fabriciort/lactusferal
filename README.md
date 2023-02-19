@@ -14,7 +14,7 @@
 <a href="https://github.com/MainOutputNone">
   <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=city_lights&border_radius=8&locale=pt_BR&mode=weekly&border=DDC745&hide_border=true" />
 </a> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=MainOutputNone&theme=omni&hide_border=true&border_radius=8&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MainOutputNone&theme=omni&hide_border=true&border_radius=8&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 <!---
 <a href="https://github.com/MainOutputNone">
