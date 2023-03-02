@@ -30,6 +30,6 @@ Estou sempre aberto a falar e trocar ideias sobre programação e tecnologia.
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=false&&theme=react&border_color=DDC745&border_radius=7.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainOutputNone&hide_progress=false&&theme=react&border_color=DDC745&border_radius=7.5&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](.gif/ezgif.com-gif-maker.gif)
