@@ -10,18 +10,16 @@
 ###
 
 **Descrição:**
-```txt
- Desenvolvedor júnior com competências em C/C++ & Python e aprendendo... 
 
-Tenho interesse no futuro da computação com a computação quântica, 
-que utiliza qubits (bits quânticos) em vez de "bits normais". 
+Estudante; Desenvolvendo em: C++, Python, Rust.
+
+Tenho interesse no futuro da computação com a computação quântica. 
 
 Acredito que a computação quântica se tornará cada vez mais importante e 
 relevante em muitas áreas, incluindo a area académica que por sinal é o meu 
-foco estudando esta area. 
+foco estudando esta area.
+E com a ajuda da inteligência artificial poderemos em alguns anos alcançar grandes feitos, que nos ajudem a compreender a formação de toda a sociedade e como preve-la e melhorar, e tanto quanto compreender cada vez mais o universo, a medida que coletamos cada vez mais dados.
 
-Estou sempre aberto a falar e trocar ideias sobre computação e tecnologia.
-```
 <!---
 <a href="https://github.com/MainOutputNone">
   <img align="center" src="https://streak-stats.demolab.com?user=MainOutputNone&theme=city_lights&border_radius=8&locale=pt_BR&mode=weekly&border=DDC745&hide_border=true" />
