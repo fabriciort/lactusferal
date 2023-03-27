@@ -11,7 +11,7 @@
 
 **Descrição:**
 
-Estudante; Desenvolvendo em: C++, Python, Rust.
+Estudante; Desenvolvendo em: C/C++, Python.
 
 Tenho interesse no futuro da computação com a computação quântica. 
 
