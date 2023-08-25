@@ -13,8 +13,6 @@
 
 Desenvolvendo em: C/C++, Python.
 
-Tenho interesse no futuro da computação com a computação quântica. 
-
 A computação é um elemento importante e 
 relevante em muitas áreas, incluindo a area académica que por sinal é o meu 
 foco estudando esta area.
