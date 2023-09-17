@@ -1,11 +1,4 @@
 ### Olá visitante, ✨
-##
-<a href="https://discord.com/channels/990151377030361129">
-  <img align="center" src="https://img.shields.io/discord/990151377030361129?label=discord&style=for-the-badge" />
-</a>
-<a href="https://discord.com/channels/990151377030361129">
-  <img align="center" src="https://img.shields.io/github/followers/lactusferal?label=Seguidores&style=for-the-badge" />
-</a>
 
 ###
 
